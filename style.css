@@ -1,0 +1,19 @@
+body {
+  background-color: rgb(219, 248, 238);
+}
+
+.navbar-brand {
+  font-family: viga;
+  font-size: 28px;
+}
+
+#kolom {
+  padding-top: 9rem;
+}
+
+footer {
+  background-color: rgb(61, 58, 58);
+}
+
+@media (min-width: 992px) {
+}
